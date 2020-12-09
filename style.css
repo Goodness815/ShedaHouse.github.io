@@ -1,0 +1,534 @@
+@import url('https://fonts.googleapis.com/css2?family=Vesper+Libre:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+/*....Nav Bar...*/
+
+.navbar img {
+  height: 80px !important;
+}
+.nav-title{
+  color: rgb(0, 0, 0);
+  font-size: 33px;
+  font-weight: 500;
+  font-family: Vesper Libre;
+  padding-left: 20px;
+}
+.nav-title:hover{
+  color: rgb(19, 19, 19);
+  text-decoration: none;
+}
+.navbar-nav .nav-link {
+padding-right: 50px !important;
+font-family: Poppins;
+font-weight: 1000 !important;
+font-size: 18px !important;
+}
+.nav-link {
+  font-family:Rubik !important;
+}
+
+/* Showcase */
+
+#showcase{
+ min-height: 400px;
+ background-color: rgb(163, 4, 4);
+  text-align:center;
+  color:#ffffff;
+}
+ 
+#showcase h1{
+  font-size:55px;
+  font-weight: 600;
+  padding-top: 200px;
+}
+
+#showcase p{
+  font-size:35px;
+  font-weight: 500; 
+}
+
+/*....Sheda Content...*/
+
+#sheda-content {
+  background-color: rgb(255, 253, 253);
+  padding: 10px;
+}
+#sheda-content .row {
+  padding-top: 60px;
+}
+#sheda-content h3 {
+  font-size: 50px;
+  padding-bottom: 30px;
+}
+#sheda-content p {
+  font-size: 20px;
+  font-weight: 500;
+}
+#sheda-content .col-md-5 {
+  text-align: center;
+}
+#tolu-box .col-md-5 {
+  text-align: center;
+}
+#tolu-box {
+  background-color: rgb(163, 4, 4);
+  color: rgb(253, 250, 250);
+}
+#tolu-box .row {
+  padding-top: 60px;
+}
+#tolu-box h3 {
+  font-size: 50px;
+  padding-bottom: 30px;
+}
+#tolu-box p {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+/*....Contact box... */
+
+#contact-section {
+  margin-bottom: 50px;
+}
+#box {
+ background-color: rgb(163, 4, 4);
+  height: 20rem;
+  color: #fbfbfd;
+}
+#box h1 {
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 70px;
+
+}
+#box p {
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.btn-1{
+ text-align: center; 
+ color: black;
+ border: 1px solid rgb(136, 136, 136);
+ border-radius: 80px;
+ padding-left: 20px;
+ padding-right: 20px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ background-color: rgb(233, 93, 0);
+ color: white;
+ font-weight: 500;
+ font-size: 20px;
+}
+.btn-1:hover{
+  color: rgb(190, 190, 190);
+  text-decoration: none;
+}
+.button {
+  text-align: center;
+  padding-bottom: 50px;
+}
+#map {
+  margin-bottom: 30px;
+}
+.h1-responsive {
+  text-align: center;
+}
+.p-responsive {
+  text-align: left;
+}
+.btn-2{
+  text-align: center; 
+  color: black;
+  border: 1px solid rgb(136, 136, 136);
+  border-radius: 3px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  background-color: rgb(233, 93, 0);
+  font-weight: 500;
+  font-size: 20px;
+ }
+ .button {
+  text-align: center;
+  padding-bottom: 50px;
+}
+.text-p {
+  padding: 10px;
+}
+.text-p a {
+  font-size: 17px;
+  font-weight: 500;
+  color:rgb(0, 0, 0);
+}
+.text-p a:hover {
+  font-size: 23px;
+  font-weight: 700;
+  color: rgb(12, 12, 12);
+  text-decoration: none;
+}
+
+/*....Google Map ..*/
+
+.google-map {
+  width: 100%;
+}
+
+/* About */
+
+
+#about-us{
+  min-height: 380px;
+  background-color: rgb(163, 4, 4);
+   text-align:center;
+   color:#ffffff;
+ }
+ #about-us h1 {
+   padding-top: 200px;
+ }
+  
+.col-md-4 img {
+  height: 60%;
+  width: 100%;
+  text-align:center;
+}
+.col-md-4 h3 {
+  text-align: center;
+}
+.col-md-4 p {
+  text-align: center;
+}
+
+.fireswitch-logo {
+  height: 60%;
+  padding-top: 50px;
+}
+
+.sheda h1 {
+  font-size: 45px;
+  font-weight: 500;
+  text-align:center;
+  margin-bottom: 40px;
+  margin-top: 20px; 
+}
+.sheda p {
+  font-size: 22px;
+  font-weight: 400;
+  text-align:left;
+  margin-bottom: 20px;
+  margin-top: 20px; 
+}
+#about-page {
+  background-color: rgb(207, 207, 207);
+  padding: 20px;
+}
+#about-page img {
+  width: 90%;
+}
+#about-page h1 {
+  font-size: 45px;
+  font-weight: 500;
+  text-align:left;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+  margin-top: 40px; 
+}
+#about-page h2 {
+  font-size: 30px;
+  font-weight:500;
+margin-bottom: 30px;
+text-align: left;
+}
+#about-page p {
+  font-size: 22px;
+  font-weight: 400;
+  text-align:left;
+}
+#culture h1 {
+  font-size: 45px;
+  font-weight: 500;
+  text-align:center;
+  margin-bottom: 40px;
+  margin-top: 20px; 
+}
+#culture p {
+  font-size: 22px;
+  font-weight: 400;
+  text-align:left;
+  margin-bottom: 20px;
+  margin-top: 20px; 
+}
+#the-team {
+  background-color: rgb(207, 207, 207);
+  padding: 20px;
+}
+#the-team img {
+  border-radius: 10px;
+}
+#the-team h4 {
+  font-size: 45px;
+  font-weight: 500;
+  text-align:left;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+#the-team h1 {
+  margin-top: 20px;
+  font-size: 25px;
+}
+
+#tweet {
+  padding-top: 30px;
+}
+#tweet h1 {
+  margin-bottom: 30px;
+}
+
+
+/*.....Services..*/
+
+#services{
+  min-height: 300px;
+  background-color: rgb(163, 4, 4);
+   text-align:center;
+   color:#ffffff;
+ }
+
+ #services h1 {
+   padding-top: 150px;
+ }
+.fire{
+  color: #00096e;
+  font-size: 60px;
+}
+.switch {
+  color: #e04000;
+  font-size: 60px;
+}
+#fireswitch h3 {
+  font-size: 35px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+#fireswitch p {
+  font-size: 17px;
+  font-weight: 500;
+  text-align: left;
+}
+.tolu-head {
+  color: #e04000;
+  padding-top: 100px;
+  font-size: 50px;
+}
+#tolulade h3 {
+  font-size: 35px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+#tolulade p {
+  font-size: 17px;
+  font-weight: 500;
+  text-align: left;
+}
+#fireswitch .price {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 20px;
+}
+#tolulade .price {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 20px;
+}
+
+.page-title{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+/*.......Academy Page .....*/
+
+.academy-span {
+  
+  color: #000000;
+  font-size: 50px;
+}
+.page-title {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#academy .row {
+  margin-top: 50px;
+}
+#academy .price {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+#academy h3 {
+  font-size: 40px;
+  margin-bottom: 50px;
+  text-align: left;
+}
+#academy li {
+  font-size: 18px;
+  font-weight: 645;
+  margin-bottom: 50px;
+  line-height: 1px;
+}
+
+#academy-2 {
+  background-color: rgb(163, 4, 4);
+  color: white;
+  padding: 30px;
+}
+#academy-2 .row {
+  margin-top: 50px;
+}
+#academy-2 .price {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+#academy-2 h3 {
+  font-size: 40px;
+  margin-bottom: 50px;
+  text-align: left;
+}
+#academy-2 li {
+  font-size: 18px;
+  font-weight: 645;
+  margin-bottom: 50px;
+  line-height: 1px;
+}
+
+
+
+
+/*.....Contact section.....*/
+
+#contact-section h1 {
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+#contact-section {
+  margin-top: 150px;
+}
+.button_1{
+  height:38px;
+  background:#e8491d;
+  border:0;
+  padding-left: 20px;
+  padding-right:20px;
+  color:#ffffff;
+}
+
+.quote{
+  padding:20px;
+  background:#c5c3c3;
+  color:#000000;
+  margin-top:10px;
+  margin-bottom:10px;
+  text-align: center;
+}
+
+/*....Footer..*/
+
+.footer-bottom {
+  background-color: #343434;
+  color: white;
+  padding: 30px;
+}
+
+.media-footer {
+  background-color: #343434;
+  color: white;
+  padding-bottom: 10px;
+  
+}
+.footer-title {
+  color: white;
+}
+
+.footer-title img{
+width: 50%;
+}
+
+.footer-title:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-title h4 {
+
+  font-size: 30px !important;
+  font-weight: 700;
+  color: white ;
+  text-align: center;
+}
+
+.footer-list {
+  margin-top: 49px;
+}
+
+.about-us {
+  color: white;
+}
+.about-us:hover {
+  color: white;
+}
+li {
+  list-style: none;
+}
+
+.fab {
+  padding-left: 5px;
+}
+
+
+/*...Media query...*/
+
+
+@media(max-width:990px){
+  .nav-title{
+    font-size: 33px;
+    font-weight: 500;
+    padding-left: 0px;
+  }
+  
+  #showcase h1{
+    font-size:50px;
+    font-weight: 600;
+    padding-top: 200px;
+  }
+}
+
+@media(max-width:766px){
+
+  .footer-list {
+    margin-top: 5px;
+  }
+  .p-responsive {
+    text-align: center;
+  }
+  
+  
+}
+
+@media(max-width:440px){
+
+  #showcase p {
+    display: none;
+  }
+  #showcase h1{
+    padding-top: 150px;
+  }
+
+}
