@@ -11,7 +11,7 @@
   font-size: 33px;
   font-weight: 500;
   font-family: Vesper Libre;
-  padding-left: 20px;
+  padding-right: 10px;
 }
 .nav-title:hover{
   color: rgb(19, 19, 19);
@@ -618,9 +618,6 @@ li {
 }
 #tweet h1 {
   font-size: 35px;
-}
-.twitter {
-  height: 50px;
 }
 #fireswitch h3 {
   font-size: 35px;
