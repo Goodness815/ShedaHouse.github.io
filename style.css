@@ -518,6 +518,10 @@ li {
   .p-responsive {
     text-align: center;
   }
+  #showcase h1{
+    padding-top: 150px;
+  }
+
   
   
 }
@@ -528,7 +532,117 @@ li {
     display: none;
   }
   #showcase h1{
-    padding-top: 150px;
+      font-size:50px;
+      font-weight: 630;
+      padding-top: 170px;
   }
-
+  #sheda-content h3 {
+    font-size: 32px;
+    padding-bottom: 20px;
+    padding-top: 40px;
+  }
+  #sheda-content p {
+    font-size: 19px;
+    font-weight: 450;
+  }
+  #tolu-box h3 {
+    font-size: 32px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+  }
+  #tolu-box p {
+    font-size: 19px;
+    font-weight: 400;
+  }
+  #services h1 {
+    font-size:53px;
+      font-weight: 320;
+      padding-bottom: 50px;
+  }
+  .academy-span{
+    font-size: 35px;
+  }
+  #academy-2 h3 {
+    font-size: 32px;
+  }
+  #academy-2 li {
+    font-size: 17px;
+    font-weight: 450;
+  }
+  #academy h3 {
+    font-size: 32px;
+  }
+  #academy li {
+    font-size: 17px;
+    font-weight: 450;
+   }
+   #about-us h1 {
+    font-size:45px;
+    font-weight: 480;
+    padding-top: 180px;
+   }
+   #history h1 {
+    font-size: 35px;
+   }
+   #history p {
+    font-size: 19px;
+    font-weight: 450;
+  }
+#about-page h1 {
+  font-size: 35px;
+}
+#about-page h2 {
+  font-size: 35px;
+}
+#about-page p {
+  font-size: 19px;
+  font-weight: 450;
+}
+#culture h1 {
+  font-size: 35px;
+  margin-bottom: 0px;
+}
+#culture p {
+  font-size: 19px;
+  font-weight: 450;
+}
+#the-team h4 {
+  font-size: 35px;
+}
+#the-team h1 {
+  font-size: 35px;
+}
+#the-team p {
+  font-size: 19px;
+  font-weight: 450;
+}
+#tweet h1 {
+  font-size: 35px;
+}
+.twitter {
+  height: 50px;
+}
+#fireswitch h3 {
+  font-size: 35px;
+}
+#fireswitch p {
+  font-size: 19px;
+  font-weight: 450;
+}
+#tolulade h3 {
+  font-size: 35px;
+}
+#tolulade p {
+  font-size: 19px;
+  font-weight: 450;
+}
+#contact-section h1 {
+  padding-top: 30px;
+}
+#contact-section-2 h1 {
+  padding-top: 30px;
+}
+.button-2 {
+  padding-top: 20px;
+}
 }
